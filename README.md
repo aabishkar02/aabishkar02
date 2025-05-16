@@ -24,8 +24,6 @@
 
 ## 🌱 What I’m Learning
 - Advanced React patterns (hooks, context, server-side rendering)  
-- TypeScript for safer, scalable code  
-- Cloud services (AWS/GCP) and CI/CD pipelines  
 - Computer vision fundamentals  
 
 ---
@@ -39,7 +37,7 @@
 ---
 
 ## 📫 Let’s Connect
-- 📧 abhi.ut@uta.edu  
+- 📧 aabishkar02@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/aabishkar02/)  
 - 🐙 [GitHub](https://github.com/aabishkar02)  
 
