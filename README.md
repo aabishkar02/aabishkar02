@@ -1,7 +1,7 @@
 ## Hi there, I’m Abhi 👋
 
 ## 🎓 About Me
-- **Computer Science student** at the University of Texas at Arlington, with a minor in Data Science  
+- **Computer Science student** at the University of Texas at Arlington, with a minor in Mathematics  
 - Aspiring **full-stack/web developer**, currently mastering JavaScript, React, and Node.js  
 - Passionate about **software testing**, **machine learning**, and **soccer fandom**—especially cheering on the Gunners! ⚽  
 - I love coding puns almost as much as I love soccer puns. Seriously.
