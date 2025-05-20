@@ -41,4 +41,3 @@
 - 🔗 [LinkedIn](https://www.linkedin.com/in/aabishkar02/)  
 - 🐙 [GitHub](https://github.com/aabishkar02)  
 
-*“Keep it simple, keep it moving.”*  
