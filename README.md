@@ -1,4 +1,4 @@
-# Hi there, I'm Abhi 👋  
+# Hi there, I'm <Aabishkar Baral> 👋  
 
 ## 🎓 About Me  
 - Computer Science student at the **University of Texas at Arlington**, pursuing a minor in Mathematics  
